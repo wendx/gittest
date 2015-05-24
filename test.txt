@@ -11,4 +11,5 @@ I am branch change 2nd time!
 Test with fast forward!
 
 test is merge need commit?
+another test,why?
 
