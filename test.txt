@@ -14,3 +14,4 @@ test is merge need commit?
 another test,why?
 
 test no fast forward!
+测试一下中文！
