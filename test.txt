@@ -23,3 +23,5 @@ test no fast forward!
 再次测试写git log的时候换行。
 
 好像还是不太对。
+
+哦，可以了，可以正确换行的。
