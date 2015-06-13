@@ -1,4 +1,4 @@
-I am branch!
+﻿I am branch!
 kaka, test!
 
 
@@ -17,5 +17,14 @@ test no fast forward!
 测试一下中文！
 
 测试修改恢复！
+
 新增一行。
 增加第二行！
+
+测试写git log的时候换行。
+
+再次测试写git log的时候换行。
+
+好像还是不太对。
+
+哦，可以了，可以正确换行的。
