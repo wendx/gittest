@@ -19,3 +19,5 @@ test no fast forward!
 测试修改恢复！
 
 测试写git log的时候换行。
+
+再次测试写git log的时候换行。
