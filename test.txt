@@ -1,4 +1,4 @@
-I am branch!
+﻿I am branch!
 kaka, test!
 
 
@@ -17,3 +17,5 @@ test no fast forward!
 测试一下中文！
 
 测试修改恢复！
+
+测试写git log的时候换行。
